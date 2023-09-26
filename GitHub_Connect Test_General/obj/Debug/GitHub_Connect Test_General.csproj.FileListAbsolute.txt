@@ -1,0 +1,7 @@
+\\Palmero\Dropbox\02.Programming\01.Code\cs_Training\GitHub_Connect Test_General\obj\Debug\GitHub_Connect Test_General.csproj.AssemblyReference.cache
+\\Palmero\Dropbox\02.Programming\01.Code\cs_Training\GitHub_Connect Test_General\obj\Debug\GitHub_Connect Test_General.csproj.CoreCompileInputs.cache
+\\Palmero\Dropbox\02.Programming\01.Code\cs_Training\GitHub_Connect Test_General\bin\Debug\GitHub_Connect Test_General.exe.config
+\\Palmero\Dropbox\02.Programming\01.Code\cs_Training\GitHub_Connect Test_General\bin\Debug\GitHub_Connect Test_General.exe
+\\Palmero\Dropbox\02.Programming\01.Code\cs_Training\GitHub_Connect Test_General\bin\Debug\GitHub_Connect Test_General.pdb
+\\Palmero\Dropbox\02.Programming\01.Code\cs_Training\GitHub_Connect Test_General\obj\Debug\GitHub_Connect Test_General.exe
+\\Palmero\Dropbox\02.Programming\01.Code\cs_Training\GitHub_Connect Test_General\obj\Debug\GitHub_Connect Test_General.pdb
